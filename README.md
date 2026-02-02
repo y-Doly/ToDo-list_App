@@ -20,8 +20,8 @@ This app allows users to add and delete tasks and also displays a **motivational
 ## Technologies Used
 
 1. **HTML5** – Structure of the application
-2. **CSS3** – Styling and layout
-3. **JavaScript (Vanilla JS)** – Logic and DOM manipulation
+2. **CSS** – Styling and layout
+3. **JavaScript** – Logic and DOM manipulation
 4. **LocalStorage** – To prevent repeating affirmations on refresh  
 
 ---
